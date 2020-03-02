@@ -1,0 +1,64 @@
+{
+  "fitness": [
+    {
+      "id": 11,
+      "sno": 1,
+      "firstname": "pooja",
+      "address": "Chennai",
+      "city": "Chennai",
+      "package": 10000,
+      "trainerpreference": "fremale",
+      "phone": 1234567890
+    },
+    {
+      "id": 5,
+      "sno": 66,
+      "firstname": "pooja",
+      "address": "Chennai",
+      "city": "Chennai",
+      "package": 10000,
+      "trainerpreference": "fremale",
+      "phone": 1234567890
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "phone": "",
+      "city": "",
+      "streetaddress": "",
+      "id": 12
+    },
+    {
+      "firstname": "dfghj",
+      "lastname": "sdfrt",
+      "phone": "1234567890",
+      "city": "dsfgh",
+      "streetaddress": "sdfgh",
+      "id": 13
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "phone": "",
+      "city": "",
+      "streetaddress": "",
+      "id": 14
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "phone": "",
+      "city": "",
+      "streetaddress": "",
+      "id": 15
+    },
+    {
+      "firstname": "anusha",
+      "lastname": "anusha",
+      "phone": "8765789899",
+      "city": "jkdhfdsh",
+      "streetaddress": "jksdfnsjahf",
+      "id": 16
+    }
+  ]
+}
